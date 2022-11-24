@@ -1,4 +1,4 @@
 import os
 
-chromedriverpath = os.getcwd()
-print(chromedriverpath)
+chromedriver_path = os.getcwd()
+print(chromedriver_path)
